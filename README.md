@@ -15,7 +15,7 @@
   
 Link:
     
-    [Click Here](https://workout-tracker777.herokuapp.com/?id=5efe4b55faa8120017b242bd)
+[Click Here](https://workout-tracker777.herokuapp.com/?id=5efe4b55faa8120017b242bd)
   
 ## Description:
   
